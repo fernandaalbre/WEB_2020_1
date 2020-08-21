@@ -1,0 +1,6 @@
+{
+  "estudantes":[
+    {"id":1, "nome":"CSGBD", "curso":"SI", "Capacidade":50},
+    {"id":2, "nome":"Matemática Discreta", "curso":"CC", "Capacidade":50}
+  ]
+}
