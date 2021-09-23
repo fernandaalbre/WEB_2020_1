@@ -1,5 +1,5 @@
 # WEB_2020_1
-<h1 align="center"> ASP.NET Core Demo </h1>
+<h1 align="center"> WEB </h1>
 
 ## 📑 Sobre
 
